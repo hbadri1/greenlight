@@ -140,5 +140,5 @@ Rails.application.routes.draw do
     end
   end
 
-  root to: 'sessions#signin'
+  root to: 'main#index'
 end
