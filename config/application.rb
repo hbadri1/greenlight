@@ -131,10 +131,10 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://i.ibb.co/7VGmqzv/LOGO.png"
+    config.branding_image_default = "https://i.ibb.co/7VGmqzv/LOGO2.png"
 
     # Default primary color if the user does not specify one
-    config.primary_color_default = "#467fcf"
+    config.primary_color_default = "#cf467f"
 
     # Default primary color lighten if the user does not specify one
     config.primary_color_lighten_default = "#e8eff9"
